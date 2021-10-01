@@ -1,1 +1,6 @@
+synchronize:
+  paths:
+  - source: .
+    include:
+    - "FilePicture.md"
 

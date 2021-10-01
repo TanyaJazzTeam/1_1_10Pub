@@ -1,2 +1,8 @@
 settings:
  ignore_escaped_strings: true
+ 
+synchronize:
+ paths:
+ - source: .
+  include:
+  - "index.md"

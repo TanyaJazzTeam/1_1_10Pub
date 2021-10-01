@@ -1,8 +1,1 @@
-settings:
- ignore_escaped_strings: true
- 
-synchronize:
- paths:
- - source: .
-  include:
-  - "FilePicture.md"
+

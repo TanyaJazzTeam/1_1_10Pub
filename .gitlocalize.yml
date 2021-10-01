@@ -1,6 +1,3 @@
-synchronize:
-  paths:
-  - source: .
-    include:
-    - "FilePicture.md"
-
+settings:
+ frontmatter_not_escaped:
+  - "true"

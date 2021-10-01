@@ -5,4 +5,4 @@ synchronize:
  paths:
  - source: .
   include:
-  - "index.md"
+  - "FilePicture.md"
